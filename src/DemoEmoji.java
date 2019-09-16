@@ -82,7 +82,7 @@ public class DemoEmoji extends JFrame
           g.fillPolygon(xPointsBowtie, yPointsBowtie, 4);
 
           // display bowtie "knot"
-          g.setColor(Color.GRAY);
+          g.setColor(Color.BLUE);
           g.fillRect(240, 400, 20, 30);
          
          // display Emoji title text
